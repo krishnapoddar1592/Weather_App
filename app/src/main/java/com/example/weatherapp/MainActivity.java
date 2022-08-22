@@ -137,8 +137,6 @@ public class MainActivity extends AppCompatActivity {
                     System.out.println(text_2);
                 }
                 textView.setText(text_2);
-                int iwjdew=2;
-                        String name="Facebook";
 
             }
         });
